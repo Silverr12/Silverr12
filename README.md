@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hello, I'm Desilvered
+## About me
+I like open source, making guides, and keeping things brief
+
+## Socials
+- Discord: @desilvered
+
+for most of you, what you're looking for here is pinned just below
+
 
 <!--
 **Silverr12/Silverr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
