@@ -1,11 +1,11 @@
 # Hello, I'm Desilvered
 ## About me
-I like open source, making guides, and keeping things brief
+I like open source, making guides, and keeping things brief<br/>
 
 ## Socials
 - Discord: @desilvered
 
-for most of you, what you're looking for here is pinned just below
+Consent is not given for my works to be modified and/or used commercially without prior written permission
 
 
 <!--
